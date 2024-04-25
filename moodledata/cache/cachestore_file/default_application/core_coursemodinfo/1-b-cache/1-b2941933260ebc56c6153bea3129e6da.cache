@@ -1,0 +1,39 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:5:{i:8;O:8:"stdClass":14:{s:2:"id";s:1:"4";s:2:"cm";s:1:"8";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:2:"18";s:6:"module";s:1:"9";s:5:"added";s:10:"1711123447";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:22:"Anuncios de la página";}i:10;O:8:"stdClass":15:{s:2:"id";s:1:"1";s:2:"cm";s:2:"10";s:3:"mod";s:4:"page";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"17";s:6:"module";s:2:"16";s:5:"added";s:10:"1711920740";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:7:"Página";}i:9;O:8:"stdClass":17:{s:2:"id";s:1:"1";s:2:"cm";s:1:"9";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"17";s:6:"module";s:2:"13";s:5:"added";s:10:"1711467935";s:8:"idnumber";s:1:"1";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Historia de la Academia";s:7:"content";s:624:"<div class="no-overflow"><div class="card mb-3" style="max-width: 540px;">
+<div class="row g-0">
+<div class="col-md-4"><img class="img-fluid rounded-start" src="https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1-1024x512.png" alt="..."></div>
+<div class="col-md-8">
+<div class="card-body">
+<h5 class="card-title">Card title</h5>
+<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+</div>
+</div>
+</div>
+</div></div>";}i:12;O:8:"stdClass":17:{s:2:"id";s:1:"2";s:2:"cm";s:2:"12";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"17";s:6:"module";s:2:"13";s:5:"added";s:10:"1711467935";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:31:"Historia de la Academia (copia)";s:7:"content";s:589:"<div class="no-overflow"><div class="card mb-3" style="max-width: 90%;">
+<div class="row g-0">
+<div class="col-md-4"><img class="img-fluid rounded-start" src="https://cdn.openwebinars.net/media/facebook-ads-git.jpg" alt="..."></div>
+<div class="col-md-8">
+<div class="card-body">
+<h5 class="card-title">Card title</h5>
+<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+</div>
+</div>
+</div>
+</div></div>";}i:11;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:2:"11";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"17";s:6:"module";s:2:"18";s:5:"added";s:10:"1711920886";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:7:"f/image";s:4:"name";s:9:"Recurso 1";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:163:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:13:"Imagen (JPEG)";s:8:"mimetype";s:10:"image/jpeg";s:9:"extension";s:3:"JPG";}}";s:7:"display";s:1:"1";}}}s:12:"sectioncache";a:2:{i:0;O:8:"stdClass":3:{s:2:"id";s:2:"18";s:4:"name";N;s:12:"availability";N;}i:1;O:8:"stdClass":4:{s:2:"id";s:2:"17";s:4:"name";s:0:"";s:7:"summary";s:1755:"<!--- Primer sección --->
+<h3 style="color: #5d050f; font-family: 'Barlow', sans-serif; font-weight: 100; font-style: normal;"><strong>Nuestros servicios</strong></h3>
+<div style="display: flex;">
+<h1 style="font-family: 'Barlow', sans-serif; font-weight: 100; font-style: normal;"><strong>¡PARTICIPA EN LAS ECONOMÍAS DEL CONOCIMIENTO!</strong></h1>
+<p style="width: 700px; font-family: 'Barlow', sans-serif; font-weight: 100; font-style: normal;">Accede a cursos diseñados para conectar con empresas de tecnología. Aprende trabajo en equipo y habilidades blandas al crear proyectos prácticos con emprendedores, y adquiere habilidades en tecnologías específicas que utiliza la empresa a la cual te quieras postular.</p>
+</div>
+<div class="d-grid gap-2 d-md-flex justify-content-md-end"><button class="btn btn-primary me-md-2" style="background-color: #5d050f; padding: 20px 20px; border: 0; border-radius: 25px; color: #ffffff; margin: 20px;" type="button">Inscribirme</button></div>
+<!--- Segunda sección --->
+<div class="card-group">
+<div class="card"><img class="card-img-top" style="width: 90%;" src="@@PLUGINFILE@@/card_1.png" alt="..."></div>
+<div class="card"><img class="card-img-top" style="width: 90%;" src="@@PLUGINFILE@@/card_2.png" alt="..."></div>
+<div class="card"><img class="card-img-top" style="width: 90%;" src="@@PLUGINFILE@@/card_3.png" alt="..."></div>
+<!--- Segunda TANDA --->
+<div class="card"><img class="card-img-top" style="width: 90%;" src="@@PLUGINFILE@@/1.png" alt="..."></div>
+<div class="card"><img class="card-img-top" style="width: 90%;" src="@@PLUGINFILE@@/2.png" alt="..."></div>
+<div class="card"><img class="card-img-top" style="width: 90%;" src="@@PLUGINFILE@@/3.png" alt="..."></div>
+</div>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:14:"AcademiaTuring";s:8:"fullname";s:15:"Academia Turing";s:6:"format";s:4:"site";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1712777907";}s:7:"version";i:1712777907;}

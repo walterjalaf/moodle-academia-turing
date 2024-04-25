@@ -1,0 +1,10 @@
+
+/**
+ * JavaScript function to Show/hide div and change text ([+] <=> [-]).
+ * @package mod_vpl
+ * @copyright 2012 Juan Carlos Rodríguez-del-Pino. All rights reserved.
+ * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @author Juan Carlos Rodríguez-del-Pino <jcrodriguez@dis.ulpgc.es>
+ **/
+(function(){if(typeof VPL!='object'){VPL={}}
+VPL.showHideDiv=function(id){var button_show=window.document.getElementById('vpl_shb'+id+'s');var button_hide=window.document.getElementById('vpl_shb'+id+'h');var content=window.document.getElementById('vpl_shc'+id);if(content){if(content.style.display=='none'){content.style.display='';button_show.style.display='none';button_hide.style.display=''}else{content.style.display='none';button_show.style.display='';button_hide.style.display='none'}}}})()

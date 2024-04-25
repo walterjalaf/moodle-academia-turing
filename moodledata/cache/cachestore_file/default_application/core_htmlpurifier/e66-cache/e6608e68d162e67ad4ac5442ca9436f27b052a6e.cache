@@ -1,0 +1,6 @@
+s:506:"<p>Cuando se selecciona, el progreso del usuario en las actividades será mostrado en cada mosaico, ya sea como una <em>fracción</em> (por ejemplo 'Progreso 2/10' significa 2 de 10 actividades completadas), o como un <em>porcentaje</em> en un círculo.</p>
+
+<p>Esto solamente puede ser usado si se ha activado la  'Finalización &gt; Habilitar seguimiento de finalización' .</p>
+
+<p>Si no hubiera actividades monitorizables dentro de un mosaico dado, no será mostrado el indicador para ese mosaico.</p>
+";
